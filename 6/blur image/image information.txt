@@ -1,0 +1,18 @@
+image information
+
+original image -
+	498 x 512  gray image
+
+realistic blurring image - 
+	498 x 498  gray image
+
+Cylindrical boundary condition blurring image -
+	498 x 512  gray image
+
+realistic blurring with gaussian noise image - 
+	498 x 498  gray image
+	sigma = 20
+
+Cylindrical boundary condition blurring with gaussian noise image -
+	498 x 512  gray image
+	sigma = 20
